@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 
 downloads_folder = r"/home/philane/Downloads/"
